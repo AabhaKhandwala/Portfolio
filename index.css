@@ -1,0 +1,68 @@
+body{
+	font-size:14px;
+	color: #333;
+	/*background-color: #fff;*/
+	letter-spacing: 1px;
+}
+/*.carousel-inner{
+	padding-top: 100px;
+}*/
+
+h1{
+	color: black;
+}
+
+.section{
+	padding: 100px 0;
+}
+
+.about{
+	max-width: 100%;
+	transform: rotate(90deg);
+}
+
+.skillsection,.contactsection{	
+	background-color: #e74c3c;
+	color: #fff;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.progress-bar{
+	display: inline-block;
+	
+	margin-top: 50px;
+}
+
+.contactbutton{
+	color: #fff;
+	padding: 15px 20px;
+	display:inline-block;
+	margin-top: 20px;
+	border:1px solid #fff;
+	border-radius: 20px;
+}
+
+.contactbutton:hover{
+	text-decoration: none;
+	color: #e74c3c;
+	background-color: #fff;
+}
+
+.copyrightsection{
+	color: #fff;
+	background-color: #000;
+	padding: 30px 5px;
+}
+
+nav{
+	background-color: #e74c3c;
+	padding: 20px 10px;
+	z-index: 100;
+	color: #fff;
+}
+
+nav li{
+	padding: 0 10px;
+}
+
